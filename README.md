@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lashlockbhs
 - 👀 I’m interested in computers 
 - 🌱 I’m currently learning Javascript, and Python 
-- 💞️ I’m looking to collaborate on VIRUSES (:<
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: EMAIL
 
 <!---
